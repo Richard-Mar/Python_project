@@ -24,6 +24,7 @@ Platform:
 Package:
 	tkinter
 	PIL
+	pyinstaller
 ```
 
 
