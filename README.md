@@ -49,12 +49,13 @@ Package:
 >密码：root
 
 
-## others：
+## others
 
 >开发日志：
 >
 >```python
->在做工具接口的时候本来也想用tkinter做图形化的直观的界面，但是囿于个人能力有限，在调用次级窗口总会出现上一级窗口的构件进入次级窗口的问题，调试多次未果，加上时间紧迫，来不及继续改进。
+>在做工具接口的时候本来也想用tkinter做图形化的直观的界面，但是囿于个人能力有限，
+>在调用次级窗口总会出现上一级窗口的构件进入次级窗口的问题，调试多次未果，加上时间紧迫，来不及继续改进。
 >遂采用功能与窗口分离的选择，实际是无奈之举。
 >```
 
@@ -64,9 +65,13 @@ Package:
 
 ## Ref
 
-[1] 《tkinter初级教程 》----传智播客 ⼤猫
+[1]《tkinter初级教程 》----传智播客 ⼤猫
 
-[2] Python installer
+[2\][Python installer使用](http://c.biancheng.net/view/2690.html)
+
+[3\][基于python的全局与局部序列比对的实现（DNA）](https://blog.csdn.net/mmqwqf/article/details/108922579)
+
+[4\][氨基酸 百度百科](https://baike.baidu.com/item/%E6%B0%A8%E5%9F%BA%E9%85%B8/303574)
 
 
 ## 鸣谢
